@@ -86,7 +86,9 @@ Conclusions:
 ### Built With
 
 * [![Swift][Swift]][Swift-url]
+* [![Python][Python]][Python-url]
 * [![Tensorflow][Tensorflow]][Tensorflow-url]
+* [![C++][C++]][C++-url]
 * [![OpenCV][OpenCV]][OpenCV-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -331,3 +333,7 @@ Project Link: [https://github.com/week-end-manufacture/ios-adas-app](https://git
 [OpenCV-url]: https://opencv.org
 [Swift]: https://img.shields.io/badge/swift-000000?style=for-the-badge&logo=swift&logoColor=white
 [Swift-url]: https://developer.apple.com/swift/
+[C++]: https://img.shields.io/badge/cpp-000000?style=for-the-badge&logo=cpp&logoColor=white
+[C++-url]: https://learn.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170
+[Python]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org
