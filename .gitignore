@@ -91,3 +91,6 @@ iOSInjectionProject/
 
 ## opencv framework
 opencv2.framework/
+
+#
+.DS_Store
