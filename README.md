@@ -13,23 +13,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/JoHyukJun/aimyon">
+  <a href="https://github.com/week-end-manufacture/ios-adas-app">
     <img src="images/logo.png" alt="Logo" width="360" height="360">
   </a>
 
   <h3 align="center">ios-adas-app</h3>
 
   <p align="center">
-    An aimyon community web service project!
+    A deep learning for advanced driver assistance system application project!
     <br />
-    <a href="https://github.com/JoHyukJun/aimyon"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/week-end-manufacture/ios-adas-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://aimyon.io">View Demo</a>
+    <a href="https://unluckystrike.com/projects/deep-learning-for-advanced-driver-assistance-system-applications">View Demo</a>
     ·
-    <a href="https://github.com/JoHyukJun/aimyon/issues">Report Bug</a>
+    <a href="https://github.com/week-end-manufacture/ios-adas-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/JoHyukJun/aimyon/issues">Request Feature</a>
+    <a href="https://github.com/Jweek-end-manufacture/ios-adas-app/issues">Request Feature</a>
   </p>
 </div>
 
